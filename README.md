@@ -1,5 +1,6 @@
 <h2 align="center">💫 About Me:</h2>
 <h3 align="center">An enthusiastic Software Engineer from India</h3>
+<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw2epAm2f-USyQpVi_eQTdXy&ust=1720033665897000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLCVhfSGiYcDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanash954&label=Profile%20views&color=0e75b6&style=flat" alt="mohdanash954" /> </p>
 
